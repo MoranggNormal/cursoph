@@ -5,7 +5,7 @@ a {
 .nav{
     border-radius: 6px;
     height: 50px;
-    background: rgba(112, 218, 26, 0.904);
+    background: rgba(255, 174, 0, 0.849)
 }
 
 .nav div {
@@ -19,7 +19,7 @@ a {
 
 .nav a {
     color: white;
-    padding 5px;
+    padding: 5px;
 }
 
 .nav ul{
@@ -34,4 +34,10 @@ a {
 .nav ul li a{
     color: white;
     padding: 5px;
+}
+
+.home {
+    background: url(../images/mathback.jpg);
+    background-size: cover;
+    height: 100vh;
 }
