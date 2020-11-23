@@ -40,4 +40,13 @@ a {
     background: url(../images/mathback.jpg);
     background-size: cover;
     height: 100vh;
+   
+}
+
+.home .text-container{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
 }
